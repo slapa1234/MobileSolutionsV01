@@ -1,0 +1,7 @@
+Saludos! Nuestro equipo Mobile Solutions del curso de Desarrollo para Plataformas Móviles
+de la Universas Peruana de Ciencias Aplicadas (UPC) está conformado por los siguientes alumnos:
+
+* Jhonathan Moran
+* Sergio Lapa
+* José Sisniegas
+* Harold
