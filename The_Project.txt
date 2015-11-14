@@ -1,4 +1,4 @@
 Saludos! Este proyecto consistirá en un realizar un aplicativo mobile con las siguientes características:
 
 * Que consuma recursos del teléfono celular
-* Que sea una aplicación nativa para android
+* Que sea una aplicación nativa para Android
